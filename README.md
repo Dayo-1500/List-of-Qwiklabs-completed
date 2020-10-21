@@ -1,5 +1,5 @@
-# List-of-Qwiklabs-completed
-Screenshots of emails I received from Qwiklabs on labs completed.
+# Owambe
+This is an app that allows people to request for crowd donations and the donors pay through a secure portal. 
 
-
-I wasn't getting emails regularly from Qwiklabs so I had to contact support and they sent me a short list of labs I'd completed.
+For now the app can only accept PayPal, MasterCard and visa card payments.
+This app is built in fulfilment of the GADS 2020 community project requirement.
